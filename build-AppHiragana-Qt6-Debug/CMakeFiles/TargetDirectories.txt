@@ -1,0 +1,9 @@
+/home/hirofine/Documents/Japonais/app/build-AppHiragana-Qt6-Debug/CMakeFiles/AppHiragana.dir
+/home/hirofine/Documents/Japonais/app/build-AppHiragana-Qt6-Debug/CMakeFiles/edit_cache.dir
+/home/hirofine/Documents/Japonais/app/build-AppHiragana-Qt6-Debug/CMakeFiles/rebuild_cache.dir
+/home/hirofine/Documents/Japonais/app/build-AppHiragana-Qt6-Debug/CMakeFiles/list_install_components.dir
+/home/hirofine/Documents/Japonais/app/build-AppHiragana-Qt6-Debug/CMakeFiles/install.dir
+/home/hirofine/Documents/Japonais/app/build-AppHiragana-Qt6-Debug/CMakeFiles/install/local.dir
+/home/hirofine/Documents/Japonais/app/build-AppHiragana-Qt6-Debug/CMakeFiles/install/strip.dir
+/home/hirofine/Documents/Japonais/app/build-AppHiragana-Qt6-Debug/CMakeFiles/AppHiragana_autogen_timestamp_deps.dir
+/home/hirofine/Documents/Japonais/app/build-AppHiragana-Qt6-Debug/CMakeFiles/AppHiragana_autogen.dir

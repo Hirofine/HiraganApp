@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-313c13a6b267ad758aaf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AppHiragana",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AppHiragana::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AppHiragana-Debug-d46885111ce0d020dbab.json",
+					"name" : "AppHiragana",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AppHiragana_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AppHiragana_autogen-Debug-88050ac560f38095dc01.json",
+					"name" : "AppHiragana_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AppHiragana_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AppHiragana_autogen_timestamp_deps-Debug-3634458044365778995d.json",
+					"name" : "AppHiragana_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hirofine/Documents/Japonais/app/build-AppHiragana-Qt6-Debug",
+		"source" : "/home/hirofine/Documents/Japonais/app/AppHiragana"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
